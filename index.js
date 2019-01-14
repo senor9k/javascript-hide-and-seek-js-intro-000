@@ -1,4 +1,4 @@
 
 function getFirstSelector(selector){
-  return document.querySelector(`ul.unranked-list ${selector}`)
+  return document.querySelector(selector)
 }
