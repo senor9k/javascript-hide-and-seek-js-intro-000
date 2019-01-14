@@ -1,4 +1,4 @@
 
 function getFirstSelector(selector){
-  const li = document.querySelector('ul.ranked-list li')
+  const li1 = document.querySelector('ul.ranked-list li')
 }
